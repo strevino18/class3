@@ -22,4 +22,4 @@ print("Welcome to FinTech!")
 
 ---
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1aeri3ty3izns.cloudfront.net%2Fmedia%2F23%2F235459%2F600%2Fpreview_4.jpg&imgrefurl=https%3A%2F%2Fwww.gear4music.com%2Fus%2Fen%2FGuitar-and-Bass%2F3-4-LA-Electric-Guitar-by-Gear4music-Black%2F7HC&tbnid=GfuS3xHhYrX5cM&vet=12ahUKEwj_ru_nwZfwAhVKFM0KHd_DC7YQMygEegUIARDGAg..i&docid=pqDx30VwQ-JQ7M&w=600&h=600&q=guitar&ved=2ahUKEwj_ru_nwZfwAhVKFM0KHd_DC7YQMygEegUIARDGAg)
+![](https://d1aeri3ty3izns.cloudfront.net/media/23/235459/600/preview_4.jpg)
