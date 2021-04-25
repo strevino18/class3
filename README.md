@@ -22,4 +22,4 @@ print("Welcome to FinTech!")
 
 ---
 
-![](https://d1aeri3ty3izns.cloudfront.net/media/23/235459/600/preview_4.jpg)
+![](https://www.collingsguitars.com/img/home/cj-45-t-header.jpg)
